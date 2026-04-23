@@ -17,7 +17,7 @@
 
 ### Overview
 
-A classic Battleship game implemented in Python and played in the terminal. The grid is a 10 by 10 board, with rows labelled A to J and columns 1 to 10. Each side hides a fleet of five ships of different sizes, and players take turns firing at coordinates until one side has sunk the entire enemy fleet. The project was developed as a Python programming assignment (IMDS3A, academic year 2024/2025, submitted in January 2025).
+A classic Battleship game implemented in Python and played in the terminal. The grid is a 10 by 10 board, with rows labelled A to J and columns 1 to 10. Each side hides a fleet of five ships of different sizes, and players take turns firing at coordinates until one side has sunk the entire enemy fleet. The project was developed as a Python programming assignment (2024/2025).
 
 ### Game principle
 
@@ -94,7 +94,7 @@ Input format: a row letter from `A` to `J` followed by a column number from `1` 
 ### Auteures
 
 Auteures : Kombila Jamelia et Maha Bouslimani.
-Pour le projet Python de l'année IMDS3A (année universitaire 2024/2025, rendu en janvier 2025).
+Pour le projet Python (2024/2025).
 
 ### Présentation
 
@@ -170,7 +170,7 @@ Format de saisie : une lettre de ligne de `A` à `J` suivie d'un numéro de colo
 
 ### Auteures
 
-Projet réalisé par **Jamelia Kombila** et **Maha Bouslimani** dans le cadre de la formation IMDS3A en Informatique (2024/2025).
+Projet réalisé par **Jamelia Kombila** et **Maha Bouslimani** (2024/2025).
 GitHub : [@jokombila](https://github.com/jokombila)
 
 ---
